@@ -1,0 +1,16 @@
+PODS:
+  - StoreUmbrella (0.0.1)
+
+DEPENDENCIES:
+  - StoreUmbrella (from `../`)
+
+EXTERNAL SOURCES:
+  StoreUmbrella:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StoreUmbrella: c2aad295686b9e247cbc802e23ca56939cbd6346
+
+PODFILE CHECKSUM: df3782e9b9139648be4e0817d9868d71b9bdaead
+
+COCOAPODS: 1.8.4
